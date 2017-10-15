@@ -1,4 +1,4 @@
-# Spamurai™ for Browser
+# Spamurai™ for Chrome / Firefox
 
 Just like a standard ad-blocker, this app removes advertisements from the pages we browse. 
 
