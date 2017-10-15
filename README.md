@@ -1,4 +1,4 @@
-# Spamurai_Browser
+# Spamurai™ for Browser
 
 Just like a standard ad-blocker, this app removes advertisements from the pages we browse. 
 
