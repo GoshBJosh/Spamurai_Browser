@@ -2,7 +2,7 @@
 
 Just like a standard ad-blocker, this app removes advertisements from the pages we browse. 
 
-But the goal of Spamurai is to reward sites who've built a relationship with their audience. 
+But the goal of Spamurai™ is to reward sites who've built a relationship with their audience. 
 
 This means allowing ads on sites you repeatedly visit. This will hopefully
 encourage sites to produce content worth coming back for. And to give users a way to financially 
