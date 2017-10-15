@@ -9,7 +9,7 @@ encourage sites to produce content worth coming back for. And to give users a wa
 support their favorite content creators.
 
 ** It's important to note that users will also be able to adjust the filters provided by the extension. This includes 
-the ability to display less ads from the sites they visit, or block ads entirely. So this extension doesn't restrict 
+the ability to display less ads from the sites they visit, or block ads entirely. So this extension doesn't keep 
 people from living ad-free.
 
 **Where we are:**
